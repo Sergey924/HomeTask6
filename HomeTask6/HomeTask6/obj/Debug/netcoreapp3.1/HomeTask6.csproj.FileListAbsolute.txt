@@ -1,0 +1,13 @@
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\bin\Debug\netcoreapp3.1\HomeTask6.exe
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\bin\Debug\netcoreapp3.1\HomeTask6.deps.json
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\bin\Debug\netcoreapp3.1\HomeTask6.runtimeconfig.json
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\bin\Debug\netcoreapp3.1\HomeTask6.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\bin\Debug\netcoreapp3.1\HomeTask6.dll
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\bin\Debug\netcoreapp3.1\HomeTask6.pdb
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.AssemblyInfo.cs
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.dll
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.pdb
+C:\Users\Админ\source\repos\HomeTask6\HomeTask6\obj\Debug\netcoreapp3.1\HomeTask6.genruntimeconfig.cache
